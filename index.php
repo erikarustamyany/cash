@@ -1,2 +1,2 @@
 <?php
-require "/web/index.php";
+require(dirname(__FILE__).'/web/index.php');
